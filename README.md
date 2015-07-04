@@ -20,7 +20,11 @@ Los pasos necesarios para generar Ugruntu 1.0 a partir de una versión de Linux 
 
   sudo chmod 777 UgruntuFromLinuxMint.sh
 
-5. Lanzar el script con permisos de superusuario.
+5. Lanzar el script con permisos de superusuario. Para instalar las versiones de desarrollador incluir "--dev".
 
   sudo ./UgruntuFromLinuxMint.sh
+  
+  o bien
+  
+  sudo ./UgruntuFromLinuxMint.sh --dev
 
