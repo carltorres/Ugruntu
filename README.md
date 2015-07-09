@@ -14,6 +14,9 @@ Las máquinas virtuales con las diferentes versiones de Ugruntu se pueden descar
 - Versión de uso general de 64 bits: https://mega.nz/#!o8FDlbYZ!ZN1JoZiq5KmaTdFeQe0zaBLIzf2e2Q2IM5WNr50M9wE
 - Versión para desarrolladores de 64 bits: https://mega.nz/#!hktDmRBS!wcPZaJIL23caA5GZw0JbjLrPfcpHIzAr9XM-CSh2TwM
 
+##Descargar el paquete de configuración desde Linux Mint 17.1 - XFCE
+https://mega.nz/#!dkch0QwB!Bm82Eum1L26nT7JWS9Uo8JdISKinI6beb2h6RtOpHGU
+
 ##Instalar Ugruntu en Linux Mint 17.1 - XFCE
 Los pasos necesarios para generar Ugruntu 1.0 a partir de una versión de Linux Mint 17.1 - XFCE son:
 
