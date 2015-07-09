@@ -4,8 +4,15 @@ Repositorio oficial de Ugruntu
 ##Descargar ISO de Ugruntu 1.0
 Las diferentes versiones de Ugruntu se pueden descargar desde los siguientes enlaces:
 
+- Actualmente no se han podido subir las imágenes ISO de Ugruntu. Disculpen las molestias.
+
 ##Descargar las máquinas virtuales para Oracle Virtualbox de Ugruntu
 Las máquinas virtuales con las diferentes versiones de Ugruntu se pueden descargar desde los siguientes enlaces:
+
+- Versión de uso general de 32 bits: https://mega.nz/#!ZsNDFJbY!uEkK05bbDXhtZEbQbaiTypfW9vXZHPDUBRhsRu9N47s
+- Versión para desarrolladores de 32 bits: https://mega.nz/#!J0lTUQCD!oWmf4trW39Fh1msdyb6nv34KV4P1hh38PFw4qdGyRsk
+- Versión de uso general de 64 bits: https://mega.nz/#!o8FDlbYZ!ZN1JoZiq5KmaTdFeQe0zaBLIzf2e2Q2IM5WNr50M9wE
+- Versión para desarrolladores de 64 bits: https://mega.nz/#!hktDmRBS!wcPZaJIL23caA5GZw0JbjLrPfcpHIzAr9XM-CSh2TwM
 
 ##Instalar Ugruntu en Linux Mint 17.1 - XFCE
 Los pasos necesarios para generar Ugruntu 1.0 a partir de una versión de Linux Mint 17.1 - XFCE son:
